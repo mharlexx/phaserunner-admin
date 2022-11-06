@@ -2,7 +2,7 @@
             <div class="page-breadcrumb">
                 <div class="row align-items-center">
                     <div class="col-6">
-                        <h1 class="mb-0 fw-bold">Starter Page</h1> 
+                        <h1 class="mb-0 fw-bold">Starter Pages</h1> 
                     </div>
                     <div class="col-6">
 
